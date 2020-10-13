@@ -1,0 +1,124 @@
+Noise
+Median response time: 98.0
+Number of total calls: 202803
+
+Street Light Condition
+Median response time: 14.5
+Number of total calls: 234894
+
+Blocked Driveway
+Median response time: 3
+Number of total calls: 417581
+
+Illegal Parking
+Median response time: 2
+Number of total calls: 430220
+
+Sidewalk Condition
+Median response time: 195.0
+Number of total calls: 95315
+
+FLOORING/STAIRS
+Median response time: 296.5
+Number of total calls: 86686
+
+PLUMBING
+Median response time: 253
+Number of total calls: 181648
+
+Noise - Street/Sidewalk
+Median response time: 2
+Number of total calls: 213745
+
+ELECTRIC
+Median response time: 251
+Number of total calls: 94942
+
+Traffic Signal Condition
+Median response time: 1
+Number of total calls: 135547
+
+Street Condition
+Median response time: 43
+Number of total calls: 360354
+
+General Construction/Plumbing
+Median response time: 55
+Number of total calls: 102336
+
+DOOR/WINDOW
+Median response time: 287
+Number of total calls: 128721
+
+GENERAL
+Median response time: 274.0
+Number of total calls: 89374
+
+Water System
+Median response time: 8.5
+Number of total calls: 240010
+
+WATER LEAK
+Median response time: 289
+Number of total calls: 115579
+
+HEAT/HOT WATER
+Median response time: 67.5
+Number of total calls: 787813
+
+PAINT/PLASTER
+Median response time: 256
+Number of total calls: 211756
+
+Building/Use
+Median response time: 967
+Number of total calls: 96269
+
+UNSANITARY CONDITION
+Median response time: 312
+Number of total calls: 274222
+
+Noise - Residential
+Median response time: 2
+Number of total calls: 760918
+
+Derelict Vehicle
+Median response time: 4
+Number of total calls: 102316
+
+Noise - Commercial
+Median response time: 1.5
+Number of total calls: 162018
+
+Damaged Tree
+Median response time: 249.0
+Number of total calls: 64888
+
+Derelict Vehicles
+Median response time: 0.0
+Number of total calls: 97547
+
+Missed Collection (All Materials)
+Median response time: 27
+Number of total calls: 107318
+
+Noise - Vehicle
+Median response time: 2.0
+Number of total calls: 87479
+
+Dirty Conditions
+Median response time: 48
+Number of total calls: 121662
+
+Rodent
+Median response time: 192
+Number of total calls: 78424
+
+Sewer
+Median response time: 4.0
+Number of total calls: 111764
+
+Sanitation Condition
+Median response time: 24.5
+Number of total calls: 124238
+

@@ -1,0 +1,32 @@
+DOHMH
+Median response time: 192
+Number of total calls: 78425
+
+HPD
+Median response time: 146
+Number of total calls: 1970741
+
+DPR
+Median response time: 249.0
+Number of total calls: 64888
+
+DOT
+Median response time: 26.0
+Number of total calls: 826096
+
+NYPD
+Median response time: 2
+Number of total calls: 2174290
+
+DEP
+Median response time: 29.0
+Number of total calls: 554577
+
+DOB
+Median response time: 193.0
+Number of total calls: 198605
+
+DSNY
+Median response time: 24.0
+Number of total calls: 450765
+

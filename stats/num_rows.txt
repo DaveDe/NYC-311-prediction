@@ -1,0 +1,6 @@
+Total number of rows: 17945594
+Total number of rows after 2015: 7921109
+No closed date after 2015: 251161
+Total number of rows considered: 6405589
+Total number of rows in top agency: 16159675
+Total number of rows in top complaint: 11853632

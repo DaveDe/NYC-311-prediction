@@ -1,0 +1,2 @@
+Median response time: 21
+Number of total calls: 11713431

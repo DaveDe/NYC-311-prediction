@@ -1,0 +1,7 @@
+x_length: 7 y_length: 7 iterations: 3
+Location, RMSE1, RMSE2
+MANHATTAN, 16.07, 16.1
+STATEN ISLAND, 19.85, 19.86
+QUEENS, 9.96, 10.0
+BRONX, 23.27, 23.3
+BROOKLYN, 16.15, 16.25

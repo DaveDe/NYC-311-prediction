@@ -1,0 +1,20 @@
+MANHATTAN
+Median response time: 28
+Number of total calls: 1229454
+
+QUEENS
+Median response time: 13
+Number of total calls: 1475922
+
+BRONX
+Median response time: 47.0
+Number of total calls: 1290250
+
+BROOKLYN
+Median response time: 22
+Number of total calls: 2031766
+
+STATEN ISLAND
+Median response time: 21.0
+Number of total calls: 290995
+

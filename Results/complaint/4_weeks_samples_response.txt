@@ -1,0 +1,33 @@
+x_length: 28 y_length: 7 iterations: 3
+Complaint, RMSE1, RMSE2
+HEAT_HOT WATER, 14.75, 14.89
+Noise - Residential, 0.27, 0.27
+Illegal Parking, 0.61, 0.61
+Blocked Driveway, 0.58, 0.58
+Street Condition, 21.17, 21.23
+UNSANITARY CONDITION, 79.2, 79.54
+Water System, 6.53, 6.53
+Street Light Condition, 17.72, 17.72
+Noise - Street_Sidewalk, 0.54, 0.54
+PAINT_PLASTER, 72.77, 72.9
+Noise, 27.13, 27.14
+PLUMBING, 78.2, 78.37
+Noise - Commercial, 0.48, 0.48
+Traffic Signal Condition, 1.4, 1.4
+DOOR_WINDOW, 76.79, 76.91
+Sanitation Condition, 9.33, 9.34
+Dirty Conditions, 22.82, 22.86
+WATER LEAK, 82.24, 82.44
+Sewer, 3.13, 3.13
+Missed Collection (All Materials), 23.12, 23.15
+General Construction_Plumbing, 42.97, 42.98
+Derelict Vehicle, 1.16, 1.16
+Derelict Vehicles, 0.34, 0.34
+Building_Use, 142.37, 142.4
+Sidewalk Condition, 42.23, 42.33
+ELECTRIC, 77.53, 77.58
+GENERAL, 84.57, 84.87
+Noise - Vehicle, 0.55, 0.55
+FLOORING_STAIRS, 89.88, 89.96
+Rodent, 49.51, 49.73
+Damaged Tree, 118.76, 118.92

@@ -1,0 +1,10 @@
+x_length: 42 y_length: 7 iterations: 3
+Agency, RMSE1, RMSE2
+DOHMH, 48.87, 49.13
+NYPD, 0.34, 0.35
+DSNY, 9.67, 9.67
+DEP, 16.86, 16.86
+DPR, 104.84, 104.86
+DOB, 74.33, 74.34
+DOT, 15.74, 15.74
+HPD, 37.83, 37.88
